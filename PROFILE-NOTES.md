@@ -39,3 +39,11 @@ stylesheet loading, print layout, and both legacy routes. Merge the PR into
 - assets/css/lab.css: shared responsive styling; all links are relative for project Pages hosting.
 
 The only activity currently listed is the user-confirmed 12 October 2026 exchange with Professor Sami Kara in Chongqing. No fictional students, laboratory events, photographs or news are included. Add new dated articles to the news section once confirmed. Full publication records, official laboratory name and photographs can be added when provided.
+
+## Lab information architecture update
+
+Information architecture follows the Greene Lab Website Template navigation: Home, Research, Projects, Team, Blog, Contact. Visual design remains the existing navy/teal static site; no Greene Lab source or styles were copied.
+
+Research preserves the former Highlights content; highlights.html redirects for existing bookmarks. Team links to the retained individual CV in profile.html. Projects describes confirmed application areas without claiming funding, project completion or unpublished results. Blog includes only the confirmed Chongqing exchange. Contact provides affiliation and the verified GitHub profile; no email or phone has been invented. No students or other team members are listed without supplied details.
+
+Update activities in blog.html and the homepage news summary together. Update outcomes in research.html, application areas in projects.html, people in team.html, and the PI CV in profile.html.
