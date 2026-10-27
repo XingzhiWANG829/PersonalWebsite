@@ -30,3 +30,12 @@ Open `index.html` directly or run `python -m http.server 8000` from the reposito
 Check desktop and narrow mobile widths, anchor navigation, keyboard focus, local
 stylesheet loading, print layout, and both legacy routes. Merge the PR into
 `gh-pages` only after reviewing the profile text and visual appearance.
+
+## Three-page structure
+
+- index.html: lab overview, dated activities and research themes. The site uses a descriptive research heading, not an invented official laboratory name.
+- profile.html: confirmed biography, appointments, education, honours and service.
+- highlights.html: monograph, dated publication summary and explicitly labelled research themes (not invented published papers). The book panel is typographic artwork, not an official cover.
+- assets/css/lab.css: shared responsive styling; all links are relative for project Pages hosting.
+
+The only activity currently listed is the user-confirmed 12 October 2026 exchange with Professor Sami Kara in Chongqing. No fictional students, laboratory events, photographs or news are included. Add new dated articles to the news section once confirmed. Full publication records, official laboratory name and photographs can be added when provided.
